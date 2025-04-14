@@ -1,4 +1,4 @@
-# applied-data-science
+# TDT4259 Applied Data Science Project
 Repository for project in TDT4259 Applied Data Science 
 
 ## Project objectives
